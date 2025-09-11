@@ -5,6 +5,15 @@ This project builds a machine learning model to detect fraudulent credit card tr
 It uses techniques for preprocessing, handling imbalanced data, and modeling with XGBoost.  
 The goal is to create a reproducible, professional project suitable for learning and demonstrating skills to recruiters.
 
+Skills Demonstrated:
+Python (pandas, numpy, scikit-learn, XGBoost)
+Data preprocessing and scaling
+Handling imbalanced datasets (SMOTE)
+Model evaluation (ROC, PR curves, F1-score, classification report)
+Feature importance analysis & explainability (SHAP)
+End-to-end ML pipeline and deployment simulation
+GitHub workflow: notebooks, saved models, results, plots
+
 ---
 
 ## 📂 Project Structure
