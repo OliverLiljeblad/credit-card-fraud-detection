@@ -38,7 +38,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-📝 How to Run Jupyter Notebooks
+2. 📝 How to Run Jupyter Notebooks
 
 Launch Jupyter Lab or Notebook:
 jupyter lab
@@ -51,8 +51,9 @@ Run notebooks in order:
 03_Evaluation_and_Deployment.ipynb → evaluate & test model
 
 Python script (optional)
-python src/train.py
+python src/train.py (Not ready)
 
+3. (Not ready)
 FastAPI demo (optional)
 uvicorn app.api:app --reload --port 8000
 
