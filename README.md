@@ -19,7 +19,6 @@ GitHub workflow: notebooks, saved models, results, plots
 ## 📂 Project Structure
 
 credit-card-fraud-detection/
-│
 ├── 01_EDA.ipynb # Exploratory Data Analysis
 ├── 02_Preprocessing_and_Modeling.ipynb # Data preprocessing and model training
 ├── 03_Evaluation_and_Deployment.ipynb # Model evaluation, threshold tuning, and deployment
@@ -87,3 +86,5 @@ Hyperparameter tuning with cross-validation
 SHAP-based feature explainability
 Deploy with Docker or cloud service
 Integration into a real-time transaction monitoring system
+
+Work in progress, fine tuning required
