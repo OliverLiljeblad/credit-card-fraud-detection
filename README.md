@@ -28,14 +28,13 @@ credit-card-fraud-detection/
 ├── models/ # Saved trained models and scalers
 └── results/ # Prediction outputs
 
-
 ---
 
 ## ⚙️ Setup Instructions
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/credit-card-fraud-detection.git
+git clone https://github.com/OliverLiljeblad/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 
 python -m venv venv
